@@ -11,7 +11,7 @@ async def on_message(msg):
   if msg.author==client.user:
     return
   if msg.content.startswith('!link'):
-    await msg.channel.send("https://meet.google.com/fxk-vdiv-tcu")#on asking for link it will send a valid pre-stored link to the meet
+    await msg.channel.send("https://meet.google.com/fxk-vdiv-tcu")#on asking for link it will send a valid pre-stored link for the meet
   elif msg.content.startswith('!bye'):
     await msg.channel.send("Bye ,have a nice day")
   elif msg.content.startswith('!goodnight'):
