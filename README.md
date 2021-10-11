@@ -1,6 +1,11 @@
 # DISCORD-BOT-1
 this a discord bot sending meet link(coded in python)
 this is a basic bot
+# CONTRIBUTOR
+1. Aditya Binukumar
+2. Srishti Sharma
+3. Shiva Tripathi
+4. Tanishq Tanwar
 # HOW TO USE
 most-important thing : install discord module
 1. create a bot on "https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications"
